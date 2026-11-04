@@ -46,7 +46,7 @@ agents:
     local: true
 
   - name: opencode
-    repo: sst/opencode
+    repo: anomalyco/opencode
     description: Provider-agnostic coding agent with a polished terminal UI.
     category: terminal
     interface: [terminal]
@@ -62,7 +62,7 @@ agents:
     local: true
 
   - name: goose
-    repo: block/goose
+    repo: aaif-goose/goose
     description: Block's extensible on-machine agent that installs, edits, runs and tests code, built around MCP.
     category: terminal
     interface: [terminal, desktop]
@@ -93,7 +93,7 @@ agents:
     local: true
 
   - name: Open Interpreter
-    repo: OpenInterpreter/open-interpreter
+    repo: openinterpreter/openinterpreter
     description: Lets an LLM run Python, JavaScript and shell code on your machine through chat.
     category: terminal
     interface: [terminal]
@@ -190,7 +190,7 @@ agents:
     local: true
 
   - name: AutoCodeRover
-    repo: nus-apr/auto-code-rover
+    repo: AutoCodeRoverSG/auto-code-rover
     description: Resolves GitHub issues by searching code by its structure (classes, methods) before patching.
     category: autonomous
     interface: [terminal]

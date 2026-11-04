@@ -1,342 +1,342 @@
 {
   "Aider-AI/aider": {
     "archived": false,
-    "forks": null,
+    "forks": 5134,
     "full_name": "Aider-AI/aider",
     "last_commit": "2026-05-22",
-    "license": null,
+    "license": "Apache-2.0",
     "missing": false,
-    "open_issues": null,
-    "stars": null
+    "open_issues": 1941,
+    "stars": 49939
   },
   "AntonOsika/gpt-engineer": {
-    "archived": false,
-    "forks": null,
+    "archived": true,
+    "forks": 7266,
     "full_name": "AntonOsika/gpt-engineer",
     "last_commit": "2024-11-17",
-    "license": null,
+    "license": "MIT",
     "missing": false,
-    "open_issues": null,
-    "stars": null
+    "open_issues": 70,
+    "stars": 54984
+  },
+  "AutoCodeRoverSG/auto-code-rover": {
+    "archived": false,
+    "forks": 328,
+    "full_name": "AutoCodeRoverSG/auto-code-rover",
+    "last_commit": "2025-04-24",
+    "license": "Other",
+    "missing": false,
+    "open_issues": 24,
+    "stars": 3104
   },
   "Doriandarko/claude-engineer": {
     "archived": false,
-    "forks": null,
+    "forks": 1158,
     "full_name": "Doriandarko/claude-engineer",
     "last_commit": "2024-12-12",
     "license": null,
     "missing": false,
-    "open_issues": null,
-    "stars": null
+    "open_issues": 48,
+    "stars": 11216
   },
   "FoundationAgents/MetaGPT": {
     "archived": false,
-    "forks": null,
+    "forks": 9089,
     "full_name": "FoundationAgents/MetaGPT",
     "last_commit": "2026-01-21",
-    "license": null,
+    "license": "MIT",
     "missing": false,
-    "open_issues": null,
-    "stars": null
+    "open_issues": 145,
+    "stars": 71163
   },
   "Kilo-Org/kilocode": {
     "archived": false,
-    "forks": null,
+    "forks": 3334,
     "full_name": "Kilo-Org/kilocode",
-    "last_commit": "2026-11-02",
-    "license": null,
+    "last_commit": "2026-11-04",
+    "license": "MIT",
     "missing": false,
-    "open_issues": null,
-    "stars": null
+    "open_issues": 873,
+    "stars": 27857
   },
   "MoonshotAI/kimi-cli": {
-    "archived": false,
-    "forks": null,
+    "archived": true,
+    "forks": 1329,
     "full_name": "MoonshotAI/kimi-cli",
     "last_commit": "2026-09-22",
-    "license": null,
+    "license": "Apache-2.0",
     "missing": false,
-    "open_issues": null,
-    "stars": null
+    "open_issues": 795,
+    "stars": 11422
   },
   "OpenAutoCoder/Agentless": {
     "archived": false,
-    "forks": null,
+    "forks": 242,
     "full_name": "OpenAutoCoder/Agentless",
     "last_commit": "2024-12-22",
-    "license": null,
+    "license": "MIT",
     "missing": false,
-    "open_issues": null,
-    "stars": null
+    "open_issues": 55,
+    "stars": 2135
   },
   "OpenBMB/ChatDev": {
     "archived": false,
-    "forks": null,
+    "forks": 4336,
     "full_name": "OpenBMB/ChatDev",
     "last_commit": "2026-10-30",
-    "license": null,
+    "license": "Apache-2.0",
     "missing": false,
-    "open_issues": null,
-    "stars": null
+    "open_issues": 105,
+    "stars": 34651
   },
   "OpenHands/OpenHands": {
     "archived": false,
-    "forks": null,
+    "forks": 12358,
     "full_name": "OpenHands/OpenHands",
-    "last_commit": "2026-11-02",
-    "license": null,
+    "last_commit": "2026-11-04",
+    "license": "MIT",
     "missing": false,
-    "open_issues": null,
-    "stars": null
-  },
-  "OpenInterpreter/open-interpreter": {
-    "archived": false,
-    "forks": null,
-    "full_name": "OpenInterpreter/open-interpreter",
-    "last_commit": "2026-11-01",
-    "license": null,
-    "missing": false,
-    "open_issues": null,
-    "stars": null
+    "open_issues": 1196,
+    "stars": 92621
   },
   "Pythagora-io/gpt-pilot": {
     "archived": false,
-    "forks": null,
+    "forks": 3454,
     "full_name": "Pythagora-io/gpt-pilot",
     "last_commit": "2026-06-12",
-    "license": null,
+    "license": "Other",
     "missing": false,
-    "open_issues": null,
-    "stars": null
+    "open_issues": 257,
+    "stars": 33645
   },
   "QwenLM/qwen-code": {
     "archived": false,
-    "forks": null,
+    "forks": 3308,
     "full_name": "QwenLM/qwen-code",
-    "last_commit": "2026-11-03",
-    "license": null,
+    "last_commit": "2026-11-04",
+    "license": "Apache-2.0",
     "missing": false,
-    "open_issues": null,
-    "stars": null
+    "open_issues": 2123,
+    "stars": 28998
   },
   "RooCodeInc/Roo-Code": {
-    "archived": false,
-    "forks": null,
+    "archived": true,
+    "forks": 3424,
     "full_name": "RooCodeInc/Roo-Code",
     "last_commit": "2026-05-15",
-    "license": null,
+    "license": "Apache-2.0",
     "missing": false,
-    "open_issues": null,
-    "stars": null
+    "open_issues": 1031,
+    "stars": 24249
   },
   "SWE-agent/SWE-agent": {
     "archived": false,
-    "forks": null,
+    "forks": 2263,
     "full_name": "SWE-agent/SWE-agent",
     "last_commit": "2026-07-16",
-    "license": null,
+    "license": "MIT",
     "missing": false,
-    "open_issues": null,
-    "stars": null
+    "open_issues": 173,
+    "stars": 20721
   },
   "SWE-agent/mini-swe-agent": {
     "archived": false,
-    "forks": null,
+    "forks": 1269,
     "full_name": "SWE-agent/mini-swe-agent",
     "last_commit": "2026-09-03",
-    "license": null,
+    "license": "MIT",
     "missing": false,
-    "open_issues": null,
-    "stars": null
+    "open_issues": 134,
+    "stars": 9080
   },
   "TabbyML/tabby": {
     "archived": false,
-    "forks": null,
+    "forks": 1793,
     "full_name": "TabbyML/tabby",
     "last_commit": "2026-06-30",
-    "license": null,
+    "license": "Other",
     "missing": false,
-    "open_issues": null,
-    "stars": null
+    "open_issues": 345,
+    "stars": 33918
+  },
+  "aaif-goose/goose": {
+    "archived": false,
+    "forks": 6558,
+    "full_name": "aaif-goose/goose",
+    "last_commit": "2026-11-04",
+    "license": "Apache-2.0",
+    "missing": false,
+    "open_issues": 549,
+    "stars": 56210
+  },
+  "anomalyco/opencode": {
+    "archived": false,
+    "forks": 30230,
+    "full_name": "anomalyco/opencode",
+    "last_commit": "2026-11-04",
+    "license": "MIT",
+    "missing": false,
+    "open_issues": 4034,
+    "stars": 224492
   },
   "aorwall/moatless-tools": {
     "archived": false,
-    "forks": null,
+    "forks": 61,
     "full_name": "aorwall/moatless-tools",
     "last_commit": "2025-09-01",
-    "license": null,
+    "license": "MIT",
     "missing": false,
-    "open_issues": null,
-    "stars": null
-  },
-  "block/goose": {
-    "archived": false,
-    "forks": null,
-    "full_name": "block/goose",
-    "last_commit": "2026-11-02",
-    "license": null,
-    "missing": false,
-    "open_issues": null,
-    "stars": null
+    "open_issues": 21,
+    "stars": 645
   },
   "charmbracelet/crush": {
     "archived": false,
-    "forks": null,
+    "forks": 2351,
     "full_name": "charmbracelet/crush",
-    "last_commit": "2026-11-02",
-    "license": null,
+    "last_commit": "2026-11-04",
+    "license": "Other",
     "missing": false,
-    "open_issues": null,
-    "stars": null
+    "open_issues": 537,
+    "stars": 28951
   },
   "cline/cline": {
     "archived": false,
-    "forks": null,
+    "forks": 7852,
     "full_name": "cline/cline",
-    "last_commit": "2026-11-02",
-    "license": null,
+    "last_commit": "2026-11-04",
+    "license": "Apache-2.0",
     "missing": false,
-    "open_issues": null,
-    "stars": null
+    "open_issues": 1761,
+    "stars": 71291
   },
   "continuedev/continue": {
     "archived": false,
-    "forks": null,
+    "forks": 5548,
     "full_name": "continuedev/continue",
-    "last_commit": "2026-07-20",
-    "license": null,
+    "last_commit": "2026-07-21",
+    "license": "Apache-2.0",
     "missing": false,
-    "open_issues": null,
-    "stars": null
+    "open_issues": 863,
+    "stars": 36403
   },
   "entropy-research/Devon": {
     "archived": false,
-    "forks": null,
+    "forks": 283,
     "full_name": "entropy-research/Devon",
     "last_commit": "2024-07-29",
-    "license": null,
+    "license": "AGPL-3.0",
     "missing": false,
-    "open_issues": null,
-    "stars": null
+    "open_issues": 26,
+    "stars": 3449
   },
   "google-gemini/gemini-cli": {
     "archived": false,
-    "forks": null,
+    "forks": 14918,
     "full_name": "google-gemini/gemini-cli",
-    "last_commit": "2026-10-30",
-    "license": null,
+    "last_commit": "2026-11-03",
+    "license": "Apache-2.0",
     "missing": false,
-    "open_issues": null,
-    "stars": null
+    "open_issues": 774,
+    "stars": 108720
   },
   "gptme/gptme": {
     "archived": false,
-    "forks": null,
+    "forks": 467,
     "full_name": "gptme/gptme",
-    "last_commit": "2026-11-02",
-    "license": null,
+    "last_commit": "2026-11-04",
+    "license": "MIT",
     "missing": false,
-    "open_issues": null,
-    "stars": null
-  },
-  "nus-apr/auto-code-rover": {
-    "archived": false,
-    "forks": null,
-    "full_name": "nus-apr/auto-code-rover",
-    "last_commit": "2025-04-24",
-    "license": null,
-    "missing": false,
-    "open_issues": null,
-    "stars": null
+    "open_issues": 21,
+    "stars": 4469
   },
   "openai/codex": {
     "archived": false,
-    "forks": null,
+    "forks": 21075,
     "full_name": "openai/codex",
-    "last_commit": "2026-11-02",
-    "license": null,
+    "last_commit": "2026-11-04",
+    "license": "Apache-2.0",
     "missing": false,
-    "open_issues": null,
-    "stars": null
+    "open_issues": 26377,
+    "stars": 133103
+  },
+  "openinterpreter/openinterpreter": {
+    "archived": false,
+    "forks": 5937,
+    "full_name": "openinterpreter/openinterpreter",
+    "last_commit": "2026-11-04",
+    "license": "Apache-2.0",
+    "missing": false,
+    "open_issues": 34,
+    "stars": 68792
   },
   "plandex-ai/plandex": {
     "archived": false,
-    "forks": null,
+    "forks": 1190,
     "full_name": "plandex-ai/plandex",
     "last_commit": "2025-10-03",
-    "license": null,
+    "license": "MIT",
     "missing": false,
-    "open_issues": null,
-    "stars": null
+    "open_issues": 70,
+    "stars": 15894
   },
   "smallcloudai/refact": {
-    "archived": false,
-    "forks": null,
+    "archived": true,
+    "forks": 316,
     "full_name": "smallcloudai/refact",
     "last_commit": "2026-05-30",
-    "license": null,
+    "license": "BSD-3-Clause",
     "missing": false,
-    "open_issues": null,
-    "stars": null
+    "open_issues": 2,
+    "stars": 3531
   },
   "smol-ai/developer": {
     "archived": false,
-    "forks": null,
+    "forks": 1069,
     "full_name": "smol-ai/developer",
     "last_commit": "2023-09-25",
-    "license": null,
+    "license": "MIT",
     "missing": false,
-    "open_issues": null,
-    "stars": null
-  },
-  "sst/opencode": {
-    "archived": false,
-    "forks": null,
-    "full_name": "sst/opencode",
-    "last_commit": "2026-11-02",
-    "license": null,
-    "missing": false,
-    "open_issues": null,
-    "stars": null
+    "open_issues": 89,
+    "stars": 12176
   },
   "stackblitz-labs/bolt.diy": {
     "archived": false,
-    "forks": null,
+    "forks": 10606,
     "full_name": "stackblitz-labs/bolt.diy",
     "last_commit": "2026-10-14",
-    "license": null,
+    "license": "MIT",
     "missing": false,
-    "open_issues": null,
-    "stars": null
+    "open_issues": 23,
+    "stars": 20030
   },
   "stitionai/devika": {
     "archived": false,
-    "forks": null,
+    "forks": 2563,
     "full_name": "stitionai/devika",
     "last_commit": "2025-09-25",
-    "license": null,
+    "license": "MIT",
     "missing": false,
-    "open_issues": null,
-    "stars": null
+    "open_issues": 196,
+    "stars": 19550
   },
   "sweepai/sweep": {
     "archived": false,
-    "forks": null,
+    "forks": 467,
     "full_name": "sweepai/sweep",
-    "last_commit": "2025-09-17",
-    "license": null,
+    "last_commit": "2025-09-18",
+    "license": "Other",
     "missing": false,
-    "open_issues": null,
-    "stars": null
+    "open_issues": 757,
+    "stars": 7708
   },
   "voideditor/void": {
-    "archived": false,
-    "forks": null,
+    "archived": true,
+    "forks": 2659,
     "full_name": "voideditor/void",
     "last_commit": "2026-06-02",
-    "license": null,
+    "license": "Apache-2.0",
     "missing": false,
-    "open_issues": null,
-    "stars": null
+    "open_issues": 304,
+    "stars": 28720
   }
 }
