@@ -1,0 +1,40 @@
+name: Suggest an agent
+description: Suggest an open-source coding agent for the list
+title: "Add: "
+labels: ["new agent"]
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: GitHub repo
+      placeholder: https://github.com/owner/name
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What does it do?
+      description: One or two sentences in your own words.
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Terminal agent
+        - IDE agent / editor
+        - Autonomous / issue-solving agent
+        - App / codebase builder
+        - Multi-agent software team
+    validations:
+      required: true
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Inclusion rules
+      options:
+        - label: It's open source and public on GitHub
+          required: true
+        - label: An LLM writes or changes code (beyond single-line autocomplete)
+          required: true

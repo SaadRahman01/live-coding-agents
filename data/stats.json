@@ -1,0 +1,342 @@
+{
+  "Aider-AI/aider": {
+    "archived": false,
+    "forks": null,
+    "full_name": "Aider-AI/aider",
+    "last_commit": "2026-05-22",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "AntonOsika/gpt-engineer": {
+    "archived": false,
+    "forks": null,
+    "full_name": "AntonOsika/gpt-engineer",
+    "last_commit": "2024-11-17",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "Doriandarko/claude-engineer": {
+    "archived": false,
+    "forks": null,
+    "full_name": "Doriandarko/claude-engineer",
+    "last_commit": "2024-12-12",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "FoundationAgents/MetaGPT": {
+    "archived": false,
+    "forks": null,
+    "full_name": "FoundationAgents/MetaGPT",
+    "last_commit": "2026-01-21",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "Kilo-Org/kilocode": {
+    "archived": false,
+    "forks": null,
+    "full_name": "Kilo-Org/kilocode",
+    "last_commit": "2026-11-02",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "MoonshotAI/kimi-cli": {
+    "archived": false,
+    "forks": null,
+    "full_name": "MoonshotAI/kimi-cli",
+    "last_commit": "2026-09-22",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "OpenAutoCoder/Agentless": {
+    "archived": false,
+    "forks": null,
+    "full_name": "OpenAutoCoder/Agentless",
+    "last_commit": "2024-12-22",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "OpenBMB/ChatDev": {
+    "archived": false,
+    "forks": null,
+    "full_name": "OpenBMB/ChatDev",
+    "last_commit": "2026-10-30",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "OpenHands/OpenHands": {
+    "archived": false,
+    "forks": null,
+    "full_name": "OpenHands/OpenHands",
+    "last_commit": "2026-11-02",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "OpenInterpreter/open-interpreter": {
+    "archived": false,
+    "forks": null,
+    "full_name": "OpenInterpreter/open-interpreter",
+    "last_commit": "2026-11-01",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "Pythagora-io/gpt-pilot": {
+    "archived": false,
+    "forks": null,
+    "full_name": "Pythagora-io/gpt-pilot",
+    "last_commit": "2026-06-12",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "QwenLM/qwen-code": {
+    "archived": false,
+    "forks": null,
+    "full_name": "QwenLM/qwen-code",
+    "last_commit": "2026-11-03",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "RooCodeInc/Roo-Code": {
+    "archived": false,
+    "forks": null,
+    "full_name": "RooCodeInc/Roo-Code",
+    "last_commit": "2026-05-15",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "SWE-agent/SWE-agent": {
+    "archived": false,
+    "forks": null,
+    "full_name": "SWE-agent/SWE-agent",
+    "last_commit": "2026-07-16",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "SWE-agent/mini-swe-agent": {
+    "archived": false,
+    "forks": null,
+    "full_name": "SWE-agent/mini-swe-agent",
+    "last_commit": "2026-09-03",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "TabbyML/tabby": {
+    "archived": false,
+    "forks": null,
+    "full_name": "TabbyML/tabby",
+    "last_commit": "2026-06-30",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "aorwall/moatless-tools": {
+    "archived": false,
+    "forks": null,
+    "full_name": "aorwall/moatless-tools",
+    "last_commit": "2025-09-01",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "block/goose": {
+    "archived": false,
+    "forks": null,
+    "full_name": "block/goose",
+    "last_commit": "2026-11-02",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "charmbracelet/crush": {
+    "archived": false,
+    "forks": null,
+    "full_name": "charmbracelet/crush",
+    "last_commit": "2026-11-02",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "cline/cline": {
+    "archived": false,
+    "forks": null,
+    "full_name": "cline/cline",
+    "last_commit": "2026-11-02",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "continuedev/continue": {
+    "archived": false,
+    "forks": null,
+    "full_name": "continuedev/continue",
+    "last_commit": "2026-07-20",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "entropy-research/Devon": {
+    "archived": false,
+    "forks": null,
+    "full_name": "entropy-research/Devon",
+    "last_commit": "2024-07-29",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "google-gemini/gemini-cli": {
+    "archived": false,
+    "forks": null,
+    "full_name": "google-gemini/gemini-cli",
+    "last_commit": "2026-10-30",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "gptme/gptme": {
+    "archived": false,
+    "forks": null,
+    "full_name": "gptme/gptme",
+    "last_commit": "2026-11-02",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "nus-apr/auto-code-rover": {
+    "archived": false,
+    "forks": null,
+    "full_name": "nus-apr/auto-code-rover",
+    "last_commit": "2025-04-24",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "openai/codex": {
+    "archived": false,
+    "forks": null,
+    "full_name": "openai/codex",
+    "last_commit": "2026-11-02",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "plandex-ai/plandex": {
+    "archived": false,
+    "forks": null,
+    "full_name": "plandex-ai/plandex",
+    "last_commit": "2025-10-03",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "smallcloudai/refact": {
+    "archived": false,
+    "forks": null,
+    "full_name": "smallcloudai/refact",
+    "last_commit": "2026-05-30",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "smol-ai/developer": {
+    "archived": false,
+    "forks": null,
+    "full_name": "smol-ai/developer",
+    "last_commit": "2023-09-25",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "sst/opencode": {
+    "archived": false,
+    "forks": null,
+    "full_name": "sst/opencode",
+    "last_commit": "2026-11-02",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "stackblitz-labs/bolt.diy": {
+    "archived": false,
+    "forks": null,
+    "full_name": "stackblitz-labs/bolt.diy",
+    "last_commit": "2026-10-14",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "stitionai/devika": {
+    "archived": false,
+    "forks": null,
+    "full_name": "stitionai/devika",
+    "last_commit": "2025-09-25",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "sweepai/sweep": {
+    "archived": false,
+    "forks": null,
+    "full_name": "sweepai/sweep",
+    "last_commit": "2025-09-17",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  },
+  "voideditor/void": {
+    "archived": false,
+    "forks": null,
+    "full_name": "voideditor/void",
+    "last_commit": "2026-06-02",
+    "license": null,
+    "missing": false,
+    "open_issues": null,
+    "stars": null
+  }
+}

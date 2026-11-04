@@ -1,0 +1,45 @@
+name: Validate agents.yaml
+
+on:
+  pull_request:
+    paths:
+      - agents.yaml
+      - scripts/**
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Check entries
+        run: python scripts/update.py --check
+
+      - name: Check new repos exist
+        run: |
+          git fetch --quiet origin "${{ github.base_ref }}"
+          git show "origin/${{ github.base_ref }}:agents.yaml" > /tmp/base.yaml
+          python - <<'EOF'
+          import os, sys, yaml, subprocess
+          base = {a["repo"].lower() for a in yaml.safe_load(open("/tmp/base.yaml"))["agents"]}
+          new = [a["repo"] for a in yaml.safe_load(open("agents.yaml"))["agents"] if a["repo"].lower() not in base]
+          bad = []
+          for repo in new:
+              r = subprocess.run(["git", "ls-remote", "--exit-code", f"https://github.com/{repo}", "HEAD"],
+                                 capture_output=True, env={**os.environ, "GIT_TERMINAL_PROMPT": "0"})
+              print(("✓ " if r.returncode == 0 else "✗ ") + repo)
+              if r.returncode != 0:
+                  bad.append(repo)
+          if bad:
+              sys.exit(f"Not found or not public: {', '.join(bad)}")
+          EOF

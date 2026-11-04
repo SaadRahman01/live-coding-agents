@@ -1,0 +1,279 @@
+# The single source of truth for the list.
+# README.md is generated from this file — edit here, never in the README.
+#
+# Fields
+#   name         Display name
+#   repo         GitHub owner/name
+#   description  One line, under 120 characters, in your own words
+#   category     terminal | ide | autonomous | app-builder | multi-agent
+#   interface    One or more of: terminal, ide, web, desktop
+#   models       Short text, e.g. "Any (via LiteLLM)", "Gemini"
+#   local        Optional. true if it can run against a local model (Ollama, llama.cpp, LM Studio…)
+#
+# Stars, license, last commit and status are filled in automatically.
+
+agents:
+  # ── Terminal agents ──────────────────────────────────────────────
+  - name: Aider
+    repo: Aider-AI/aider
+    description: Pair-programs in your terminal, editing files across a git repo and committing each change.
+    category: terminal
+    interface: [terminal]
+    models: Any (via LiteLLM)
+    local: true
+
+  - name: Codex CLI
+    repo: openai/codex
+    description: OpenAI's lightweight coding agent that reads, edits and runs code from the terminal.
+    category: terminal
+    interface: [terminal, ide]
+    models: OpenAI, others via config
+    local: true
+
+  - name: Gemini CLI
+    repo: google-gemini/gemini-cli
+    description: Google's terminal agent that brings Gemini models to your shell with tools and MCP support.
+    category: terminal
+    interface: [terminal]
+    models: Gemini
+
+  - name: Qwen Code
+    repo: QwenLM/qwen-code
+    description: Terminal agent built on Gemini CLI and tuned for Qwen coder models.
+    category: terminal
+    interface: [terminal]
+    models: Qwen, OpenAI-compatible APIs
+    local: true
+
+  - name: opencode
+    repo: sst/opencode
+    description: Provider-agnostic coding agent with a polished terminal UI.
+    category: terminal
+    interface: [terminal]
+    models: Any provider
+    local: true
+
+  - name: Crush
+    repo: charmbracelet/crush
+    description: Charm's terminal coding agent with multi-model sessions and LSP awareness.
+    category: terminal
+    interface: [terminal]
+    models: Any provider
+    local: true
+
+  - name: goose
+    repo: block/goose
+    description: Block's extensible on-machine agent that installs, edits, runs and tests code, built around MCP.
+    category: terminal
+    interface: [terminal, desktop]
+    models: Any provider
+    local: true
+
+  - name: Kimi CLI
+    repo: MoonshotAI/kimi-cli
+    description: Moonshot AI's terminal agent for coding and shell tasks.
+    category: terminal
+    interface: [terminal]
+    models: Kimi
+
+  - name: gptme
+    repo: gptme/gptme
+    description: Personal terminal agent with shell, Python, file-editing and browsing tools.
+    category: terminal
+    interface: [terminal, web]
+    models: Any provider
+    local: true
+
+  - name: Plandex
+    repo: plandex-ai/plandex
+    description: Terminal agent for large multi-file tasks, with changes staged in a sandbox for review.
+    category: terminal
+    interface: [terminal]
+    models: Multiple providers
+    local: true
+
+  - name: Open Interpreter
+    repo: OpenInterpreter/open-interpreter
+    description: Lets an LLM run Python, JavaScript and shell code on your machine through chat.
+    category: terminal
+    interface: [terminal]
+    models: Any (via LiteLLM)
+    local: true
+
+  - name: Claude Engineer
+    repo: Doriandarko/claude-engineer
+    description: Interactive CLI for Claude that can create and use its own new tools.
+    category: terminal
+    interface: [terminal, web]
+    models: Claude
+
+  # ── IDE agents & editors ─────────────────────────────────────────
+  - name: Cline
+    repo: cline/cline
+    description: VS Code agent that edits files, runs commands and uses a browser, asking approval at each step.
+    category: ide
+    interface: [ide]
+    models: Any provider
+    local: true
+
+  - name: Roo Code
+    repo: RooCodeInc/Roo-Code
+    description: Cline fork for VS Code with custom modes that act as specialised team members.
+    category: ide
+    interface: [ide]
+    models: Any provider
+    local: true
+
+  - name: Kilo Code
+    repo: Kilo-Org/kilocode
+    description: Coding agent for VS Code and JetBrains combining ideas from Cline and Roo Code.
+    category: ide
+    interface: [ide, terminal]
+    models: Any provider
+    local: true
+
+  - name: Continue
+    repo: continuedev/continue
+    description: Open-source assistants and agents for VS Code, JetBrains and the command line.
+    category: ide
+    interface: [ide, terminal]
+    models: Any provider
+    local: true
+
+  - name: Void
+    repo: voideditor/void
+    description: Open-source AI code editor forked from VS Code, positioned as a Cursor alternative.
+    category: ide
+    interface: [desktop]
+    models: Any provider
+    local: true
+
+  - name: Tabby
+    repo: TabbyML/tabby
+    description: Self-hosted coding assistant with completion and chat that runs on your own hardware.
+    category: ide
+    interface: [ide, web]
+    models: Open models (self-hosted)
+    local: true
+
+  - name: Refact
+    repo: smallcloudai/refact
+    description: Coding agent for VS Code and JetBrains that can be self-hosted.
+    category: ide
+    interface: [ide]
+    models: Any provider
+    local: true
+
+  # ── Autonomous / issue-solving agents ────────────────────────────
+  - name: OpenHands
+    repo: OpenHands/OpenHands
+    description: Platform for AI developers that write code, run commands and browse the web in a sandbox.
+    category: autonomous
+    interface: [web, terminal]
+    models: Any (via LiteLLM)
+    local: true
+
+  - name: SWE-agent
+    repo: SWE-agent/SWE-agent
+    description: Research agent from Princeton and Stanford that fixes real GitHub issues on its own.
+    category: autonomous
+    interface: [terminal]
+    models: Any (via LiteLLM)
+    local: true
+
+  - name: mini-swe-agent
+    repo: SWE-agent/mini-swe-agent
+    description: Roughly 100-line agent that still solves a large share of SWE-bench issues.
+    category: autonomous
+    interface: [terminal]
+    models: Any (via LiteLLM)
+    local: true
+
+  - name: AutoCodeRover
+    repo: nus-apr/auto-code-rover
+    description: Resolves GitHub issues by searching code by its structure (classes, methods) before patching.
+    category: autonomous
+    interface: [terminal]
+    models: GPT, Claude and others
+
+  - name: Agentless
+    repo: OpenAutoCoder/Agentless
+    description: Skips the agent loop and fixes bugs in three fixed phases — localize, repair, validate.
+    category: autonomous
+    interface: [terminal]
+    models: OpenAI and others
+
+  - name: Moatless Tools
+    repo: aorwall/moatless-tools
+    description: Toolkit for building cheap, effective code-editing agents, benchmarked on SWE-bench.
+    category: autonomous
+    interface: [terminal]
+    models: Multiple providers
+
+  - name: Devika
+    repo: stitionai/devika
+    description: Agentic software engineer that plans, researches the web and writes code from a goal.
+    category: autonomous
+    interface: [web]
+    models: Claude, GPT, Gemini, Ollama
+    local: true
+
+  - name: Devon
+    repo: entropy-research/Devon
+    description: Open-source pair programmer that plans and carries out multi-step coding tasks.
+    category: autonomous
+    interface: [terminal, desktop]
+    models: Multiple providers
+
+  - name: Sweep
+    repo: sweepai/sweep
+    description: Turns GitHub issues and bug reports into pull requests.
+    category: autonomous
+    interface: [web]
+    models: OpenAI and others
+
+  # ── App & codebase builders ──────────────────────────────────────
+  - name: bolt.diy
+    repo: stackblitz-labs/bolt.diy
+    description: Open-source Bolt.new — prompt, run, edit and deploy full-stack web apps in the browser.
+    category: app-builder
+    interface: [web]
+    models: Any provider
+    local: true
+
+  - name: GPT Pilot
+    repo: Pythagora-io/gpt-pilot
+    description: Builds whole apps step by step, keeping a human developer in the loop.
+    category: app-builder
+    interface: [ide, terminal]
+    models: Multiple providers
+
+  - name: gpt-engineer
+    repo: AntonOsika/gpt-engineer
+    description: Generates a codebase from a natural-language spec and iterates on feedback.
+    category: app-builder
+    interface: [terminal]
+    models: Multiple providers
+
+  - name: smol developer
+    repo: smol-ai/developer
+    description: Early "junior developer" that scaffolds a whole codebase from a product spec.
+    category: app-builder
+    interface: [terminal]
+    models: OpenAI
+
+  # ── Multi-agent software teams ───────────────────────────────────
+  - name: MetaGPT
+    repo: FoundationAgents/MetaGPT
+    description: Assigns roles like PM, architect and engineer to agents that turn one requirement into a project.
+    category: multi-agent
+    interface: [terminal]
+    models: Multiple providers
+    local: true
+
+  - name: ChatDev
+    repo: OpenBMB/ChatDev
+    description: Simulated software company of communicating agents that design, code and test together.
+    category: multi-agent
+    interface: [terminal, web]
+    models: Multiple providers
