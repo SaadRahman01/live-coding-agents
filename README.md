@@ -5,7 +5,7 @@
 
 Most "awesome" lists go stale within months: links die, projects get abandoned, and star counts are years old. This one maintains itself. Every week a GitHub Action pulls fresh stats for every agent, flags projects that have gone quiet, follows repos that moved, and rebuilds this page.
 
-**34 agents** tracked · last refreshed **2026-11-04**
+**34 agents** tracked · last refreshed **2026-11-09**
 
 🟢 Active **14** · 🟡 Slowing **5** · 🔴 Inactive **10** · 🪦 Archived **5**
 
@@ -23,18 +23,18 @@ Run in your shell and work directly on your files.
 
 | Agent | What it does | Interface | Models | Local | ⭐ Stars | License | Last commit | Status |
 |---|---|---|---|:---:|---:|---|---|---|
-| [opencode](https://github.com/anomalyco/opencode) | Provider-agnostic coding agent with a polished terminal UI. | terminal | Any provider | ✅ | 224.5k | MIT | 2026-11-04 | 🟢 Active |
-| [Codex CLI](https://github.com/openai/codex) | OpenAI's lightweight coding agent that reads, edits and runs code from the terminal. | terminal, ide | OpenAI, others via config | ✅ | 133.1k | Apache-2.0 | 2026-11-04 | 🟢 Active |
-| [Gemini CLI](https://github.com/google-gemini/gemini-cli) | Google's terminal agent that brings Gemini models to your shell with tools and MCP support. | terminal | Gemini | — | 108.7k | Apache-2.0 | 2026-11-03 | 🟢 Active |
-| [Open Interpreter](https://github.com/openinterpreter/openinterpreter) | Lets an LLM run Python, JavaScript and shell code on your machine through chat. | terminal | Any (via LiteLLM) | ✅ | 68.8k | Apache-2.0 | 2026-11-04 | 🟢 Active |
-| [goose](https://github.com/aaif-goose/goose) | Block's extensible on-machine agent that installs, edits, runs and tests code, built around MCP. | terminal, desktop | Any provider | ✅ | 56.2k | Apache-2.0 | 2026-11-04 | 🟢 Active |
-| [Aider](https://github.com/Aider-AI/aider) | Pair-programs in your terminal, editing files across a git repo and committing each change. | terminal | Any (via LiteLLM) | ✅ | 49.9k | Apache-2.0 | 2026-05-22 | 🟡 Slowing |
-| [Qwen Code](https://github.com/QwenLM/qwen-code) | Terminal agent built on Gemini CLI and tuned for Qwen coder models. | terminal | Qwen, OpenAI-compatible APIs | ✅ | 29k | Apache-2.0 | 2026-11-04 | 🟢 Active |
-| [Crush](https://github.com/charmbracelet/crush) | Charm's terminal coding agent with multi-model sessions and LSP awareness. | terminal | Any provider | ✅ | 29k | Other | 2026-11-04 | 🟢 Active |
+| [opencode](https://github.com/anomalyco/opencode) | Provider-agnostic coding agent with a polished terminal UI. | terminal | Any provider | ✅ | 225.6k | MIT | 2026-11-09 | 🟢 Active |
+| [Codex CLI](https://github.com/openai/codex) | OpenAI's lightweight coding agent that reads, edits and runs code from the terminal. | terminal, ide | OpenAI, others via config | ✅ | 134.2k | Apache-2.0 | 2026-11-09 | 🟢 Active |
+| [Gemini CLI](https://github.com/google-gemini/gemini-cli) | Google's terminal agent that brings Gemini models to your shell with tools and MCP support. | terminal | Gemini | — | 108.8k | Apache-2.0 | 2026-11-06 | 🟢 Active |
+| [Open Interpreter](https://github.com/openinterpreter/openinterpreter) | Lets an LLM run Python, JavaScript and shell code on your machine through chat. | terminal | Any (via LiteLLM) | ✅ | 68.8k | Apache-2.0 | 2026-11-09 | 🟢 Active |
+| [goose](https://github.com/aaif-goose/goose) | Block's extensible on-machine agent that installs, edits, runs and tests code, built around MCP. | terminal, desktop | Any provider | ✅ | 56.4k | Apache-2.0 | 2026-11-09 | 🟢 Active |
+| [Aider](https://github.com/Aider-AI/aider) | Pair-programs in your terminal, editing files across a git repo and committing each change. | terminal | Any (via LiteLLM) | ✅ | 50k | Apache-2.0 | 2026-05-22 | 🟡 Slowing |
+| [Qwen Code](https://github.com/QwenLM/qwen-code) | Terminal agent built on Gemini CLI and tuned for Qwen coder models. | terminal | Qwen, OpenAI-compatible APIs | ✅ | 29.1k | Apache-2.0 | 2026-11-09 | 🟢 Active |
+| [Crush](https://github.com/charmbracelet/crush) | Charm's terminal coding agent with multi-model sessions and LSP awareness. | terminal | Any provider | ✅ | 29k | Other | 2026-11-09 | 🟢 Active |
 | [Plandex](https://github.com/plandex-ai/plandex) | Terminal agent for large multi-file tasks, with changes staged in a sandbox for review. | terminal | Multiple providers | ✅ | 15.9k | MIT | 2025-10-03 | 🔴 Inactive |
 | [Kimi CLI](https://github.com/MoonshotAI/kimi-cli) | Moonshot AI's terminal agent for coding and shell tasks. | terminal | Kimi | — | 11.4k | Apache-2.0 | 2026-09-22 | 🪦 Archived |
 | [Claude Engineer](https://github.com/Doriandarko/claude-engineer) | Interactive CLI for Claude that can create and use its own new tools. | terminal, web | Claude | — | 11.2k | — | 2024-12-12 | 🔴 Inactive |
-| [gptme](https://github.com/gptme/gptme) | Personal terminal agent with shell, Python, file-editing and browsing tools. | terminal, web | Any provider | ✅ | 4.5k | MIT | 2026-11-04 | 🟢 Active |
+| [gptme](https://github.com/gptme/gptme) | Personal terminal agent with shell, Python, file-editing and browsing tools. | terminal, web | Any provider | ✅ | 4.5k | MIT | 2026-11-08 | 🟢 Active |
 
 ## 🧩 IDE agents & editors
 
@@ -42,11 +42,11 @@ Live inside your editor as an extension, or are the editor.
 
 | Agent | What it does | Interface | Models | Local | ⭐ Stars | License | Last commit | Status |
 |---|---|---|---|:---:|---:|---|---|---|
-| [Cline](https://github.com/cline/cline) | VS Code agent that edits files, runs commands and uses a browser, asking approval at each step. | ide | Any provider | ✅ | 71.3k | Apache-2.0 | 2026-11-04 | 🟢 Active |
+| [Cline](https://github.com/cline/cline) | VS Code agent that edits files, runs commands and uses a browser, asking approval at each step. | ide | Any provider | ✅ | 71.5k | Apache-2.0 | 2026-11-09 | 🟢 Active |
 | [Continue](https://github.com/continuedev/continue) | Open-source assistants and agents for VS Code, JetBrains and the command line. | ide, terminal | Any provider | ✅ | 36.4k | Apache-2.0 | 2026-07-21 | 🟡 Slowing |
 | [Tabby](https://github.com/TabbyML/tabby) | Self-hosted coding assistant with completion and chat that runs on your own hardware. | ide, web | Open models (self-hosted) | ✅ | 33.9k | Other | 2026-06-30 | 🟡 Slowing |
 | [Void](https://github.com/voideditor/void) | Open-source AI code editor forked from VS Code, positioned as a Cursor alternative. | desktop | Any provider | ✅ | 28.7k | Apache-2.0 | 2026-06-02 | 🪦 Archived |
-| [Kilo Code](https://github.com/Kilo-Org/kilocode) | Coding agent for VS Code and JetBrains combining ideas from Cline and Roo Code. | ide, terminal | Any provider | ✅ | 27.9k | MIT | 2026-11-04 | 🟢 Active |
+| [Kilo Code](https://github.com/Kilo-Org/kilocode) | Coding agent for VS Code and JetBrains combining ideas from Cline and Roo Code. | ide, terminal | Any provider | ✅ | 27.9k | MIT | 2026-11-07 | 🟢 Active |
 | [Roo Code](https://github.com/RooCodeInc/Roo-Code) | Cline fork for VS Code with custom modes that act as specialised team members. | ide | Any provider | ✅ | 24.2k | Apache-2.0 | 2026-05-15 | 🪦 Archived |
 | [Refact](https://github.com/smallcloudai/refact) | Coding agent for VS Code and JetBrains that can be self-hosted. | ide | Any provider | ✅ | 3.5k | BSD-3-Clause | 2026-05-30 | 🪦 Archived |
 
@@ -56,12 +56,12 @@ Take a task or GitHub issue and work through it largely on their own.
 
 | Agent | What it does | Interface | Models | Local | ⭐ Stars | License | Last commit | Status |
 |---|---|---|---|:---:|---:|---|---|---|
-| [OpenHands](https://github.com/OpenHands/OpenHands) | Platform for AI developers that write code, run commands and browse the web in a sandbox. | web, terminal | Any (via LiteLLM) | ✅ | 92.6k | MIT | 2026-11-04 | 🟢 Active |
-| [SWE-agent](https://github.com/SWE-agent/SWE-agent) | Research agent from Princeton and Stanford that fixes real GitHub issues on its own. | terminal | Any (via LiteLLM) | ✅ | 20.7k | MIT | 2026-07-16 | 🟡 Slowing |
-| [Devika](https://github.com/stitionai/devika) | Agentic software engineer that plans, researches the web and writes code from a goal. | web | Claude, GPT, Gemini, Ollama | ✅ | 19.6k | MIT | 2025-09-25 | 🔴 Inactive |
-| [mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) | Roughly 100-line agent that still solves a large share of SWE-bench issues. | terminal | Any (via LiteLLM) | ✅ | 9.1k | MIT | 2026-09-03 | 🟢 Active |
+| [OpenHands](https://github.com/OpenHands/OpenHands) | Platform for AI developers that write code, run commands and browse the web in a sandbox. | web, terminal | Any (via LiteLLM) | ✅ | 93k | MIT | 2026-11-09 | 🟢 Active |
+| [SWE-agent](https://github.com/SWE-agent/SWE-agent) | Research agent from Princeton and Stanford that fixes real GitHub issues on its own. | terminal | Any (via LiteLLM) | ✅ | 20.8k | MIT | 2026-07-16 | 🟡 Slowing |
+| [Devika](https://github.com/stitionai/devika) | Agentic software engineer that plans, researches the web and writes code from a goal. | web | Claude, GPT, Gemini, Ollama | ✅ | 19.5k | MIT | 2025-09-25 | 🔴 Inactive |
+| [mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) | Roughly 100-line agent that still solves a large share of SWE-bench issues. | terminal | Any (via LiteLLM) | ✅ | 9.4k | MIT | 2026-09-03 | 🟢 Active |
 | [Sweep](https://github.com/sweepai/sweep) | Turns GitHub issues and bug reports into pull requests. | web | OpenAI and others | — | 7.7k | Other | 2025-09-18 | 🔴 Inactive |
-| [Devon](https://github.com/entropy-research/Devon) | Open-source pair programmer that plans and carries out multi-step coding tasks. | terminal, desktop | Multiple providers | — | 3.4k | AGPL-3.0 | 2024-07-29 | 🔴 Inactive |
+| [Devon](https://github.com/entropy-research/Devon) | Open-source pair programmer that plans and carries out multi-step coding tasks. | terminal, desktop | Multiple providers | — | 3.5k | AGPL-3.0 | 2024-07-29 | 🔴 Inactive |
 | [AutoCodeRover](https://github.com/AutoCodeRoverSG/auto-code-rover) | Resolves GitHub issues by searching code by its structure (classes, methods) before patching. | terminal | GPT, Claude and others | — | 3.1k | Other | 2025-04-24 | 🔴 Inactive |
 | [Agentless](https://github.com/OpenAutoCoder/Agentless) | Skips the agent loop and fixes bugs in three fixed phases — localize, repair, validate. | terminal | OpenAI and others | — | 2.1k | MIT | 2024-12-22 | 🔴 Inactive |
 | [Moatless Tools](https://github.com/aorwall/moatless-tools) | Toolkit for building cheap, effective code-editing agents, benchmarked on SWE-bench. | terminal | Multiple providers | — | 645 | MIT | 2025-09-01 | 🔴 Inactive |
@@ -74,7 +74,7 @@ Generate whole applications or codebases from a description.
 |---|---|---|---|:---:|---:|---|---|---|
 | [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) | Generates a codebase from a natural-language spec and iterates on feedback. | terminal | Multiple providers | — | 55k | MIT | 2024-11-17 | 🪦 Archived |
 | [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) | Builds whole apps step by step, keeping a human developer in the loop. | ide, terminal | Multiple providers | — | 33.6k | Other | 2026-06-12 | 🟡 Slowing |
-| [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) | Open-source Bolt.new — prompt, run, edit and deploy full-stack web apps in the browser. | web | Any provider | ✅ | 20k | MIT | 2026-10-14 | 🟢 Active |
+| [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) | Open-source Bolt.new — prompt, run, edit and deploy full-stack web apps in the browser. | web | Any provider | ✅ | 20.1k | MIT | 2026-10-14 | 🟢 Active |
 | [smol developer](https://github.com/smol-ai/developer) | Early "junior developer" that scaffolds a whole codebase from a product spec. | terminal | OpenAI | — | 12.2k | MIT | 2023-09-25 | 🔴 Inactive |
 
 ## 👥 Multi-agent software teams
