@@ -1,23 +1,23 @@
 {
   "Aider-AI/aider": {
     "archived": false,
-    "forks": 5145,
+    "forks": 5174,
     "full_name": "Aider-AI/aider",
     "last_commit": "2026-05-22",
     "license": "Apache-2.0",
     "missing": false,
-    "open_issues": 1961,
-    "stars": 50030
+    "open_issues": 1968,
+    "stars": 50139
   },
   "AntonOsika/gpt-engineer": {
     "archived": true,
-    "forks": 7264,
+    "forks": 7259,
     "full_name": "AntonOsika/gpt-engineer",
     "last_commit": "2024-11-17",
     "license": "MIT",
     "missing": false,
     "open_issues": 70,
-    "stars": 54962
+    "stars": 54955
   },
   "AutoCodeRoverSG/auto-code-rover": {
     "archived": false,
@@ -27,47 +27,47 @@
     "license": "Other",
     "missing": false,
     "open_issues": 24,
-    "stars": 3105
+    "stars": 3104
   },
   "Doriandarko/claude-engineer": {
     "archived": false,
-    "forks": 1160,
+    "forks": 1158,
     "full_name": "Doriandarko/claude-engineer",
     "last_commit": "2024-12-12",
     "license": null,
     "missing": false,
-    "open_issues": 49,
-    "stars": 11217
+    "open_issues": 48,
+    "stars": 11220
   },
   "FoundationAgents/MetaGPT": {
     "archived": false,
-    "forks": 9107,
+    "forks": 9111,
     "full_name": "FoundationAgents/MetaGPT",
     "last_commit": "2026-01-21",
     "license": "MIT",
     "missing": false,
-    "open_issues": 150,
-    "stars": 71227
+    "open_issues": 156,
+    "stars": 71291
   },
   "Kilo-Org/kilocode": {
     "archived": false,
-    "forks": 3350,
+    "forks": 3362,
     "full_name": "Kilo-Org/kilocode",
-    "last_commit": "2026-11-07",
+    "last_commit": "2026-11-16",
     "license": "MIT",
     "missing": false,
-    "open_issues": 872,
-    "stars": 27914
+    "open_issues": 924,
+    "stars": 28011
   },
   "MoonshotAI/kimi-cli": {
     "archived": true,
-    "forks": 1327,
+    "forks": 1322,
     "full_name": "MoonshotAI/kimi-cli",
     "last_commit": "2026-09-22",
     "license": "Apache-2.0",
     "missing": false,
-    "open_issues": 794,
-    "stars": 11418
+    "open_issues": 793,
+    "stars": 11407
   },
   "OpenAutoCoder/Agentless": {
     "archived": false,
@@ -81,103 +81,103 @@
   },
   "OpenBMB/ChatDev": {
     "archived": false,
-    "forks": 4341,
+    "forks": 4350,
     "full_name": "OpenBMB/ChatDev",
     "last_commit": "2026-10-30",
     "license": "Apache-2.0",
     "missing": false,
-    "open_issues": 110,
-    "stars": 34710
+    "open_issues": 124,
+    "stars": 34755
   },
   "OpenHands/OpenHands": {
     "archived": false,
-    "forks": 12430,
+    "forks": 12529,
     "full_name": "OpenHands/OpenHands",
-    "last_commit": "2026-11-09",
+    "last_commit": "2026-11-16",
     "license": "MIT",
     "missing": false,
-    "open_issues": 1170,
-    "stars": 93025
+    "open_issues": 1193,
+    "stars": 93573
   },
   "Pythagora-io/gpt-pilot": {
     "archived": false,
-    "forks": 3453,
+    "forks": 3449,
     "full_name": "Pythagora-io/gpt-pilot",
     "last_commit": "2026-06-12",
     "license": "Other",
     "missing": false,
     "open_issues": 257,
-    "stars": 33638
+    "stars": 33645
   },
   "QwenLM/qwen-code": {
     "archived": false,
-    "forks": 3334,
+    "forks": 3543,
     "full_name": "QwenLM/qwen-code",
-    "last_commit": "2026-11-09",
+    "last_commit": "2026-11-16",
     "license": "Apache-2.0",
     "missing": false,
-    "open_issues": 2133,
-    "stars": 29123
+    "open_issues": 2337,
+    "stars": 30580
   },
   "RooCodeInc/Roo-Code": {
     "archived": true,
-    "forks": 3430,
+    "forks": 3439,
     "full_name": "RooCodeInc/Roo-Code",
     "last_commit": "2026-05-15",
     "license": "Apache-2.0",
     "missing": false,
-    "open_issues": 1029,
-    "stars": 24235
+    "open_issues": 1028,
+    "stars": 24238
   },
   "SWE-agent/SWE-agent": {
     "archived": false,
-    "forks": 2264,
+    "forks": 2271,
     "full_name": "SWE-agent/SWE-agent",
     "last_commit": "2026-07-16",
     "license": "MIT",
     "missing": false,
-    "open_issues": 180,
-    "stars": 20765
+    "open_issues": 189,
+    "stars": 20819
   },
   "SWE-agent/mini-swe-agent": {
     "archived": false,
-    "forks": 1302,
+    "forks": 1325,
     "full_name": "SWE-agent/mini-swe-agent",
     "last_commit": "2026-09-03",
     "license": "MIT",
     "missing": false,
-    "open_issues": 140,
-    "stars": 9447
+    "open_issues": 145,
+    "stars": 9652
   },
   "TabbyML/tabby": {
     "archived": false,
-    "forks": 1795,
+    "forks": 1798,
     "full_name": "TabbyML/tabby",
     "last_commit": "2026-06-30",
     "license": "Other",
     "missing": false,
-    "open_issues": 345,
-    "stars": 33927
+    "open_issues": 354,
+    "stars": 33938
   },
   "aaif-goose/goose": {
     "archived": false,
-    "forks": 6573,
+    "forks": 6594,
     "full_name": "aaif-goose/goose",
-    "last_commit": "2026-11-09",
+    "last_commit": "2026-11-16",
     "license": "Apache-2.0",
     "missing": false,
-    "open_issues": 571,
-    "stars": 56388
+    "open_issues": 550,
+    "stars": 56678
   },
   "anomalyco/opencode": {
     "archived": false,
-    "forks": 30479,
+    "forks": 30770,
     "full_name": "anomalyco/opencode",
-    "last_commit": "2026-11-09",
+    "last_commit": "2026-11-16",
     "license": "MIT",
     "missing": false,
-    "open_issues": 4175,
-    "stars": 225642
+    "open_issues": 4039,
+    "stars": 227173
   },
   "aorwall/moatless-tools": {
     "archived": false,
@@ -187,37 +187,37 @@
     "license": "MIT",
     "missing": false,
     "open_issues": 21,
-    "stars": 645
+    "stars": 646
   },
   "charmbracelet/crush": {
     "archived": false,
-    "forks": 2361,
+    "forks": 2368,
     "full_name": "charmbracelet/crush",
-    "last_commit": "2026-11-09",
+    "last_commit": "2026-11-15",
     "license": "Other",
     "missing": false,
-    "open_issues": 535,
-    "stars": 29012
+    "open_issues": 553,
+    "stars": 29101
   },
   "cline/cline": {
     "archived": false,
-    "forks": 7897,
+    "forks": 7930,
     "full_name": "cline/cline",
-    "last_commit": "2026-11-09",
+    "last_commit": "2026-11-16",
     "license": "Apache-2.0",
     "missing": false,
-    "open_issues": 1748,
-    "stars": 71486
+    "open_issues": 1783,
+    "stars": 71671
   },
   "continuedev/continue": {
     "archived": false,
-    "forks": 5556,
+    "forks": 5567,
     "full_name": "continuedev/continue",
     "last_commit": "2026-07-21",
     "license": "Apache-2.0",
     "missing": false,
-    "open_issues": 867,
-    "stars": 36440
+    "open_issues": 863,
+    "stars": 36493
   },
   "entropy-research/Devon": {
     "archived": false,
@@ -227,57 +227,57 @@
     "license": "AGPL-3.0",
     "missing": false,
     "open_issues": 26,
-    "stars": 3450
+    "stars": 3451
   },
   "google-gemini/gemini-cli": {
     "archived": false,
-    "forks": 14931,
+    "forks": 14957,
     "full_name": "google-gemini/gemini-cli",
-    "last_commit": "2026-11-06",
+    "last_commit": "2026-11-13",
     "license": "Apache-2.0",
     "missing": false,
-    "open_issues": 738,
-    "stars": 108801
+    "open_issues": 728,
+    "stars": 108864
   },
   "gptme/gptme": {
     "archived": false,
-    "forks": 469,
+    "forks": 478,
     "full_name": "gptme/gptme",
-    "last_commit": "2026-11-08",
+    "last_commit": "2026-11-16",
     "license": "MIT",
     "missing": false,
-    "open_issues": 47,
-    "stars": 4470
+    "open_issues": 6,
+    "stars": 4482
   },
   "openai/codex": {
     "archived": false,
-    "forks": 21244,
+    "forks": 21485,
     "full_name": "openai/codex",
-    "last_commit": "2026-11-09",
+    "last_commit": "2026-11-16",
     "license": "Apache-2.0",
     "missing": false,
-    "open_issues": 26917,
-    "stars": 134163
+    "open_issues": 27636,
+    "stars": 135488
   },
   "openinterpreter/openinterpreter": {
     "archived": false,
-    "forks": 5941,
+    "forks": 5948,
     "full_name": "openinterpreter/openinterpreter",
-    "last_commit": "2026-11-09",
+    "last_commit": "2026-11-15",
     "license": "Apache-2.0",
     "missing": false,
-    "open_issues": 37,
-    "stars": 68844
+    "open_issues": 36,
+    "stars": 68895
   },
   "plandex-ai/plandex": {
     "archived": false,
-    "forks": 1191,
+    "forks": 1192,
     "full_name": "plandex-ai/plandex",
     "last_commit": "2025-10-03",
     "license": "MIT",
     "missing": false,
     "open_issues": 71,
-    "stars": 15905
+    "stars": 15921
   },
   "smallcloudai/refact": {
     "archived": true,
@@ -287,27 +287,27 @@
     "license": "BSD-3-Clause",
     "missing": false,
     "open_issues": 2,
-    "stars": 3531
+    "stars": 3529
   },
   "smol-ai/developer": {
     "archived": false,
-    "forks": 1066,
+    "forks": 1068,
     "full_name": "smol-ai/developer",
     "last_commit": "2023-09-25",
     "license": "MIT",
     "missing": false,
     "open_issues": 89,
-    "stars": 12170
+    "stars": 12171
   },
   "stackblitz-labs/bolt.diy": {
     "archived": false,
-    "forks": 10609,
+    "forks": 10612,
     "full_name": "stackblitz-labs/bolt.diy",
-    "last_commit": "2026-10-14",
+    "last_commit": "2026-11-16",
     "license": "MIT",
     "missing": false,
-    "open_issues": 23,
-    "stars": 20061
+    "open_issues": 9,
+    "stars": 20095
   },
   "stitionai/devika": {
     "archived": false,
@@ -316,8 +316,8 @@
     "last_commit": "2025-09-25",
     "license": "MIT",
     "missing": false,
-    "open_issues": 196,
-    "stars": 19542
+    "open_issues": 203,
+    "stars": 19547
   },
   "sweepai/sweep": {
     "archived": false,
@@ -327,16 +327,16 @@
     "license": "Other",
     "missing": false,
     "open_issues": 756,
-    "stars": 7707
+    "stars": 7710
   },
   "voideditor/void": {
     "archived": true,
-    "forks": 2660,
+    "forks": 2659,
     "full_name": "voideditor/void",
     "last_commit": "2026-06-02",
     "license": "Apache-2.0",
     "missing": false,
     "open_issues": 304,
-    "stars": 28711
+    "stars": 28709
   }
 }
